@@ -1,0 +1,8 @@
+This project is made as a simple helper for mute streamer to be able to have a voice by using a combination of speech recognition and text to speech.
+
+The idea will allow two ways of using this project:
+
+- Speech recognition, a box will appear that could be used in the stream by capturing the browser. This box will have all the speech detected as a text
+- Text to Speech, using the text that appear in the box it will use Text to Speech to play back everything using a Text to Speech service.
+
+No configuration planned for now.
